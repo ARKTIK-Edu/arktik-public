@@ -5,7 +5,7 @@
 This repository is governed. Access and use are conditioned on professional conduct.
 
 ## Non-Negotiables
-- No harassment, threats, hate, or discriminatory conduct.
+- No harassment, threats, or discriminatory conduct.
 - No doxxing, stalking, or publishing personal data.
 - No attempts to identify minors or infer student identity.
 - No impersonation of ARKTIK or false claims of partnership/endorsement.
