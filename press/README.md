@@ -29,16 +29,23 @@ ARKTIK is a governed ecosystem that includes:
 ## Editorial Integrity, Corrections, and Provenance (Important)
 ARKTIK is press-friendly and collaboration-forward, but we are strict on authenticity and safety:
 
+
 - **Canonical sources matter:** ARKTIK maintains official publication channels and version history.
 - **Corrections/versioning discipline:** ARKTIK controls corrections, updates, retractions, and takedowns for its media outputs.
 - **Provenance protocol:** ARKTIK may publish signed manifests and public verification artifacts for qualifying releases.
 - **Web3 posture:** If ARKTIK uses on-chain anchoring, it is **hash-only and ARKTIK-issued**. No third party may mint, pin, anchor, or make provenance claims without written permission.
+- 
 
 See:
 - `../MEDIA_RIGHTS.md`
 - `../PROVENANCE.md`
 - `../MANIFEST_SPEC.md`
 - `../LICENSE.md`
+
+###  ARKTIK’s child protection posture is defined here:
+- `../CHILD_PROTECTION_STANDARD.md`
+
+---
 
 ## How to Cover ARKTIK (Recommended Practice)
 1. Use the approved boilerplate and key facts in `PRESS_KIT.md`
