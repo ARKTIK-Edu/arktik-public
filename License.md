@@ -1,92 +1,78 @@
 <img src="assets/ARKTIK Universe%20Logo.png" alt="ARKTIK Logo" width="200">
 
-# ARKTIK Public Repository License (APRL) v1.0
+# ARKTIK Proprietary Public License (APPL) v1.0
 Last updated: 2025-12-16
 
-This repository contains multiple categories of ARKTIK property. Different terms apply depending on what you are using.
+ALL RIGHTS RESERVED.
+This repository is published for evaluation and controlled distribution only.
 
-By accessing, copying, downloading, using, or distributing any part of this repository, you agree to these terms.
+By accessing, downloading, copying, or using any content in this repository, you agree to this License.
 
 ## 1. Definitions
-- “ARKTIK” means ARKTIK and its affiliates, including ARKTIK Education, ARKTIK Press, ARKTIK News & Media, and ARKTIK Lifestyle.
-- “Code” means software source code intended to be executed (e.g., scripts, libraries, utilities).
-- “Materials” means non-code content (e.g., PDFs, lesson samples, guides, templates, copy, documentation, press kit, brand assets).
-- “News & Media Content” means any journalistic, editorial, broadcast, audio/video, show, episode, transcript, article, reporting package, or distribution output associated with ARKTIK News & Media and/or ARKTIK Studios.
-- “Marks” means ARKTIK trademarks, logos, trade dress, names, and brand identifiers.
-- “You” means the individual or entity using repository content.
+“ARKTIK” means ARKTIK and its affiliates, including ARKTIK Education, ARKTIK Press, ARKTIK News & Media, and ARKTIK Lifestyle.
+“Content” means all files in this repository, including without limitation documents, PDFs, templates, copy, designs, text, audio/video, code, scripts, data, and any derivatives.
+“Marks” means ARKTIK trademarks, names, logos, trade dress, and brand identifiers.
+“You” means the individual or entity using the Content.
 
-## 2. License Summary (controlling terms are below)
-A) Code: Licensed under the “ARKTIK Open Code Terms” (Section 3) unless a file states a different license header.
-B) Materials (including downloads): Licensed under the “ARKTIK Content Terms” (Section 4).
-C) News & Media Content: All Rights Reserved (Section 5).
-D) Marks: No trademark rights granted (Section 6).
-E) Conduct/Use: Use is conditional on compliance with Section 7.
+## 2. Ownership
+All Content is proprietary to ARKTIK and/or its licensors and is protected by copyright, trademark, trade secret, and other laws.
+No ownership interest is transferred to You.
 
-## 3. ARKTIK Open Code Terms (Code)
-Unless a code file includes a different license header, Code in this repository is licensed under the Apache License 2.0.
+## 3. Limited License Grant (Evaluation + Sharing in Unmodified Form)
+Subject to continuous compliance with this License, ARKTIK grants You a limited, revocable, non-exclusive, non-transferable license to:
+A) View and download Content solely for personal evaluation or internal review; and
+B) Share Content only in unmodified form, only with attribution to ARKTIK, and only for non-commercial informational purposes.
 
-You may use, reproduce, modify, and distribute Code under Apache 2.0, subject to:
-- preserving notices and attribution required by Apache 2.0;
-- not misrepresenting ARKTIK as endorsing your derivative works;
-- complying with Section 7 (Acceptable Use & Conduct).
+This grant does NOT permit commercial use, redistribution at scale, sublicensing, or derivative works.
 
-If ARKTIK elects to label a subdirectory as “Proprietary,” “All Rights Reserved,” or “Not for Redistribution,” those labels supersede this Section for that subdirectory.
+## 4. Prohibited Uses (No Exceptions Without Written Permission)
+You may NOT, and may not allow others to:
+- Sell, license, sublicense, rent, lease, or commercially exploit any Content.
+- Modify, adapt, translate, transform, create derivative works from, or reverse engineer any Content.
+- Remove or alter attribution, copyright notices, edition identifiers, version marks, or correction/versioning statements.
+- Rehost Content on content libraries, marketplaces, or learning management systems.
+- Use Content to build competing products, curriculum, training, media, or services.
+- Use Content as training data or inputs for any machine learning or AI system, including fine-tuning, embeddings, indexing, dataset creation, or model evaluation.
+- Scrape, mirror, archive, or bulk-copy Content for redistribution.
 
-## 4. ARKTIK Content Terms (Materials)
-ARKTIK grants you a limited, revocable, non-exclusive, non-transferable license to:
-- download and share Materials in unmodified form for personal, educational, or evaluation purposes.
+## 5. ARKTIK News & Media Rights (Enhanced Protection)
+All ARKTIK News & Media content and related distribution packages are strictly proprietary and ALL RIGHTS RESERVED.
+You may not reproduce, rebroadcast, syndicate, clip, scrape, train on, or redistribute News & Media content or formats except for brief quotations for commentary or criticism as permitted by applicable law, with attribution and a link to the canonical ARKTIK source.
 
-You may NOT, without ARKTIK’s prior written permission:
-- sell, sublicense, or commercially exploit Materials;
-- create derivative works of Materials (including adaptations, rewrites, translations, or repackaging) for redistribution;
-- upload Materials to any “content library,” learning platform, dataset, model-training corpus, or AI system (public or private) for training, fine-tuning, embedding, or bulk indexing;
-- remove ARKTIK branding, notices, edition identifiers, version marks, or correction/versioning statements;
-- represent Materials as your own, or imply ARKTIK endorsement of you, your product, or your program.
+ARKTIK exclusively controls corrections, versioning, retractions, and distribution posture for its News & Media outputs.
 
-You may link to ARKTIK-hosted pages (preferred) instead of rehosting Materials.
+## 6. Student Safety + Identity Protection
+You may not use ARKTIK Content in any way that:
+- reveals or attempts to infer a minor’s identity;
+- enables harassment, targeting, or exploitation of minors; or
+- publishes student examples in a manner that could reasonably be used to identify a student.
 
-## 5. ARKTIK News & Media Rights (All Rights Reserved)
-All News & Media Content is proprietary. No rights are granted to reproduce, rebroadcast, syndicate, repackage, scrape, train on, or redistribute News & Media Content except:
-- brief quotations for commentary or criticism consistent with applicable law, with attribution and a link to the canonical ARKTIK source.
+Public publishing for minors must be pseudonym-first and opt-in. Any breach triggers immediate termination.
 
-ARKTIK reserves exclusive rights to:
-- publish, edit, correct, version, retract, and distribute News & Media Content;
-- control downstream syndication, licensing, and distribution relationships;
-- enforce takedowns and corrections to protect integrity and minors’ safety.
+## 7. Acceptable Use + Code of Conduct (Condition of License)
+All use is conditioned on compliance with ARKTIK’s Code of Conduct and Acceptable Use rules, including:
+- no harassment, hate, or discriminatory conduct;
+- no doxxing or publication of personal data;
+- no impersonation or false affiliation;
+- no use that undermines ARKTIK’s editorial integrity, corrections, or versioning controls.
 
-## 6. Trademarks / Brand / Marks
-No license is granted to use ARKTIK Marks.
-You may not use ARKTIK names, logos, or brand identifiers in a way that suggests sponsorship, endorsement, partnership, or affiliation.
+## 8. Trademarks
+No trademark rights are granted.
+You may not use ARKTIK Marks except to provide truthful attribution in unmodified sharing, and you may not imply endorsement, partnership, or affiliation.
 
-If ARKTIK provides a separate “Brand Guidelines” document, that document governs any permitted brand use and may be revoked.
+## 9. Termination
+This License terminates automatically upon breach. Upon termination, You must cease use and delete all copies in your control (except where retention is required by law).
+ARKTIK may revoke this License at any time for any reason by providing notice.
 
-## 7. Acceptable Use & Conduct (Condition of Use)
-All licenses in this repository are conditioned on compliance with the following:
-- No harassment, hate, or discriminatory conduct.
-- No exploitation, sexualization, or targeting of minors.
-- No doxxing, stalking, or publication of personal data.
-- No impersonation of ARKTIK or misrepresentation of ARKTIK services.
-- No use of ARKTIK Materials to facilitate fraud, manipulation, or unlawful surveillance.
-- No use that undermines ARKTIK’s corrections/versioning integrity (e.g., publishing altered copies as “original”).
+## 10. Disclaimers
+Content is provided “AS IS” without warranties of any kind. ARKTIK disclaims all implied warranties to the maximum extent permitted by law.
 
-ARKTIK may revoke your rights to use any Materials immediately upon breach.
+## 11. Limitation of Liability
+To the maximum extent permitted by law, ARKTIK shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or loss of profits, revenue, data, or goodwill.
 
-## 8. Student Safety and Identity Protection
-Where Materials involve student publishing/speaking pathways:
-- minors’ public identity must be protected by default (pseudonyms and opt-in release only);
-- you may not publish or redistribute any ARKTIK student-related examples in a way that reveals identity or personal details.
+## 12. Governing Law; Venue
+Texas law governs. Exclusive venue lies in the appropriate courts in Texas unless otherwise required by law.
 
-## 9. No Professional Advice
-Materials are informational and educational. ARKTIK does not provide legal advice. Any compliance or regulatory use requires your own counsel.
-
-## 10. Termination
-This license terminates automatically if you breach it. Upon termination you must stop using and distributing Materials and delete any copies not required to be retained by law.
-
-## 11. Disclaimer and Limitation of Liability
-Materials and Code are provided “AS IS” without warranties. ARKTIK is not liable for indirect, incidental, special, consequential, or punitive damages to the maximum extent permitted by law.
-
-## 12. Governing Law and Venue
-Texas law governs this license, without regard to conflict-of-laws rules. Venue is in the appropriate courts in Texas unless otherwise required by law.
-
-## 13. Contact
-For commercial licensing, syndication, partnerships, or permissions: contact ARKTIK via arktikeducation.org.
+## 13. Commercial Licensing
+Commercial use, partner distribution, syndication, whitelabel, and program licensing require a separate written agreement with ARKTIK.
+Contact via arktikeducation.org.
