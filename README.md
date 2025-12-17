@@ -1,73 +1,49 @@
 <img src="assets/ARKTIK Universe%20Logo.png" alt="ARKTIK Logo" width="200">
 
-# ARKTIK Public Downloads
+# ARKTIK (Public) — Controlled Distribution Vault
 
-This folder contains **public-safe ARKTIK downloads** intended for parents, educators, partners, and media. These assets are designed to be shared freely and used as “value tokens” during outreach.
+This repository contains **public-safe ARKTIK materials** published for evaluation, press, and controlled distribution. ARKTIK is a **proprietary ecosystem**. We are not open source.
 
-## What belongs here
-- Public-facing PDFs and one-pagers (parent-safe, partner-safe)
-- Sample “look inside” pages that demonstrate the ARKTIK Textbook Engine
-- Press-safe collateral that does **not** expose internal operations, client/student data, or partner-sensitive details
+ARKTIK exists to deliver a stability-first, evidence-first learning and publishing system—built to protect students, families, institutions, and outcomes.
 
-## What must NOT be placed here
-- Any student/parent PII (names, emails, phone numbers, addresses, case details)
-- Operational playbooks (Power Automate design, SharePoint schemas, moderation queues)
-- Internal pricing sheets, internal SOPs, sales scripts, referral payout mechanics
-- Any content that implies accreditation, legal advice, or uncontracted partnerships
+## What’s Here
+- **Downloads**: parent-safe, partner-safe one-pagers and PDFs for outreach and evaluation  
+- **Press & Brand**: approved boilerplate, media kit components, and usage guidance  
+- **Site Copy Blocks**: public-facing copy fragments for approved ARKTIK web surfaces (as applicable)
 
-## Download Index
+## What’s Not Here
+- Operational playbooks, internal workflows, automation designs, tenant configurations, or pipeline schemas  
+- Any student or client data (PII)  
+- “Community build” surfaces (we do not accept public contributions into our internal EDU M365 operating environment)
 
-### Week One Jumpstart Pack
-**File:** `Week_One_Jumpstart_Pack_v1.pdf`  
-**Use case:** First-touch outreach. Shows the ARKTIK weekly engine and how students build independence with guardrails.  
-**Primary CTA:** Book a Homeschool & University Prep Consultation.
+## Rights and Use
+All content in this repository is governed by the **ARKTIK Proprietary Public License (APPL)**. In plain terms:
+- You may **review** and **share unmodified** materials for non-commercial informational use with attribution.
+- You may **not** commercialize, modify, rehost at scale, scrape, train AI systems on, or perform any on-chain/Web3 actions with ARKTIK content.
+- ARKTIK retains exclusive **News & Media** rights, including editorial corrections, versioning, and distribution control.
 
-### Literacy Triage Card
-**File:** `Literacy_Triage_Card_v1.pdf`  
-**Use case:** Families dealing with literacy concerns and low confidence. A fast checklist plus “what to do this week.”  
-**Primary CTA:** Book a Consultation or start a Module.
+See: `LICENSE.md`, `MEDIA_RIGHTS.md`, `TRADEMARKS.md`, and `CODE_OF_CONDUCT.md`.
 
-### Documentation Pack
-**File:** `Documentation_Pack_v1.pdf`  
-**Use case:** Families and programs that need clean, audit-ready documentation habits (non-PII templates).  
-**Primary CTA:** Book a Consultation for a 90-day stability plan.
+## Licensing and Whitelabel (ARKTIK Press)
+ARKTIK offers **commercial licensing** and **white-label packaging** through **ARKTIK Press** for qualified organizations and programs. Typical engagements include:
+- curriculum/module licensing for cohorts and programs  
+- branded program packaging (white-label) with governance requirements  
+- distribution and syndication arrangements for approved media properties  
+- institutional pilots (schools, courts, nonprofits, community programs)  
 
-### Look Inside a Lesson (Sample)
-**File:** `Look_Inside_Lesson_Sample_v1.pdf`  
-**Use case:** Proof asset. Demonstrates the Textbook Engine lesson spine and artifact outputs.  
-**Primary CTA:** Explore Textbooks / Book a Consultation.
+Commercial rights require a separate written agreement.
 
-### Cohort Culture Charter
-**File:** `Cohort_Culture_Charter_v1.pdf`  
-**Use case:** Sets expectations for conversation, belonging, and mentor-led discussion in cohorts.  
-**Primary CTA:** Reserve a Publishing Sprint seat.
+## Partnership Posture (Important)
+We welcome serious collaboration conversations at the business level; however:
+- We do **not** operate an open-source or public contributor model.
+- We do **not** provide external technical collaboration into ARKTIK’s closed EDU M365 environment.
+- Any operational integration occurs only under a formal agreement and scoped delivery.
 
-### Press Pathway Quickstart
-**File:** `Press_Pathway_Quickstart_v1.pdf`  
-**Use case:** Explains how students progress from evidence-based work to publishable outputs under ARKTIK Press standards.  
-**Primary CTA:** Explore Academy / Publishing Sprint.
-
----
-
-## Versioning Standard
-- Filenames must include a version suffix: `*_v1.pdf`, `*_v1.1.pdf`, `*_v2.pdf`
-- Public PDFs should be generated from canonical sources maintained in `arktik-internal`:
-  - `docs/assets/lead-magnets/` (source documents)
-- Do not overwrite existing PDFs. Publish a new version.
-
-## Required Footer (for all PDFs)
-Include a short footer statement:
-- "ARKTIK provides educational curriculum and cohort services. ARKTIK does not provide legal advice. Public publishing uses pseudonyms for minors by default; any public release is opt-in with parent/guardian permission."
-
-## Publishing Workflow (Public)
-1. Update canonical source in `arktik-internal/docs/assets/lead-magnets/`
-2. Export to PDF
-3. Copy PDF into this folder (`arktik-public/downloads/`)
-4. Commit and push
-5. Publish the same PDF to:
-   - Squarespace (Downloads page)
-   - SharePoint (Public-Downloads library)
+## Quick Links
+- Downloads: `downloads/README.md`  
+- Press: `press/README.md`  
+- Brand: `brand/README.md`  
+- Licensing posture: `PARTNERING.md` and `LICENSING.md`
 
 ## Contact
-For press or partnership inquiries, use the contact path on arktikeducation.org.
-
+For licensing, whitelabel, partnerships, or media inquiries, contact ARKTIK via **arktikeducation.org**.
