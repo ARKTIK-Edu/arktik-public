@@ -13,7 +13,7 @@ This folder is a **controlled distribution vault** for public-safe ARKTIK PDFs a
 ## What does NOT belong here
 - Any student/client PII
 - Internal playbooks, workflows, automation designs
-- Pricing sheets intended for private sales conversations (keep internal)
+- Pricing sheets intended for private sales conversations
 - Anything governed by NDA or a commercial agreement
 
 ## Use and permissions
