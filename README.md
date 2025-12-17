@@ -44,6 +44,8 @@ We welcome serious collaboration conversations at the business level; however:
 - Press: `press/README.md`  
 - Brand: `brand/README.md`  
 - Licensing posture: `PARTNERING.md` and `LICENSING.md`
+- Child Protection Standard: `CHILD_PROTECTION_STANDARD.md`
+
 
 ## Contact
 For licensing, whitelabel, partnerships, or media inquiries, contact ARKTIK via **arktikeducation.org**.
