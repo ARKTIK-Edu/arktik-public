@@ -16,3 +16,6 @@ Any use that increases risk to minors (identity exposure, targeting, exploitatio
 
 ## Enforcement
 ARKTIK may revoke access and permissions immediately upon breach.
+
+## Zero Tolerance: Sexualized Content
+Sexualized speech/content is prohibited. Any sexualization of minors results in immediate removal and revocation of rights under LICENSE.md.
